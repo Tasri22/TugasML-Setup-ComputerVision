@@ -89,6 +89,6 @@ Jika versi OpenCV muncul tanpa error, maka instalasi berhasil.
 Setup environment Computer Vision menggunakan Anaconda telah berhasil dilakukan sesuai dengan tutorial.
 Environment terpisah telah dibuat, library OpenCV terinstall dengan baik, dan sistem siap digunakan untuk praktik Machine Learning selanjutnya.
 
----
+## 🎥 Video Presentasi
 
-# Youtube Link : https://youtu.be/kpnMMxIKZAA?si=i6eYD1PJGMwur1si
+[Klik di sini untuk menonton video presentasi](https://youtu.be/kpnMMxIKZAA?si=i6eYD1PJGMwur1si)
