@@ -109,17 +109,19 @@ Dari proses setup yang telah dilakukan:
 * Versi OpenCV dapat ditampilkan menggunakan `cv2.__version__`.
 
 Hal ini menunjukkan bahwa konfigurasi Computer Vision telah berhasil disiapkan dan siap digunakan untuk pengembangan lebih lanjut.
+
 ```
 
 ---
 
-# ✅ Kesimpulan
+## ✅ Kesimpulan
 
 Setup environment Computer Vision menggunakan Anaconda telah berhasil dilakukan sesuai dengan tutorial.
 
 Environment terpisah telah dibuat, library OpenCV terinstall dengan baik, dan sistem siap digunakan untuk praktik Machine Learning selanjutnya.
 
 ```
+
 # Youtube Link : https://youtu.be/kpnMMxIKZAA?si=i6eYD1PJGMwur1si
 
 
