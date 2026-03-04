@@ -109,6 +109,7 @@ Dari proses setup yang telah dilakukan:
 * Versi OpenCV dapat ditampilkan menggunakan `cv2.__version__`.
 
 Hal ini menunjukkan bahwa konfigurasi Computer Vision telah berhasil disiapkan dan siap digunakan untuk pengembangan lebih lanjut.
+```
 
 ---
 
