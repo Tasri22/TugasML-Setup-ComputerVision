@@ -112,17 +112,13 @@ Hal ini menunjukkan bahwa konfigurasi Computer Vision telah berhasil disiapkan d
 
 ---
 
-## ✅ Kesimpulan
+# ✅ Kesimpulan
 
 Setup environment Computer Vision menggunakan Anaconda telah berhasil dilakukan sesuai dengan tutorial.
 
 Environment terpisah telah dibuat, library OpenCV terinstall dengan baik, dan sistem siap digunakan untuk praktik Machine Learning selanjutnya.
 
 ```
-
----
-
 # Youtube Link : https://youtu.be/kpnMMxIKZAA?si=i6eYD1PJGMwur1si
 
-```
 
